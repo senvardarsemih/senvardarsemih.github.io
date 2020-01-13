@@ -1,23 +1,7 @@
-## Portfolio
+### .Net Core Development Roadmap 2020
 
----
+I am completely agree the tech stacks on it.
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
 <img src="images/roadmap.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
