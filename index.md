@@ -5,11 +5,16 @@ So you may find some useful informations,tips,tricks etc. about software develop
 
 ### .Net Core Development Roadmap 2020
 
-I am completely agree the tech stacks on it :thumbsup:
+```
+void getBestTechStacksForDotNetDeveloper(2020);
+```
 
 <img src="images/roadmap.jpg?raw=true"/>
 
-Maybe some geek stuff down there :point_down:
+```
+string subject = "programming languages";
+void getSomeGeekyStuffAbout(subect);
+```
 
 <img src="images/git-the-princess.jpg?raw=true"/>
 
